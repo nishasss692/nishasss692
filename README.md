@@ -10,8 +10,8 @@
 <!-- Profile views + social badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=nishasss692&label=Profile+Views&color=7F77DD&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/nishasss692?label=Followers&style=flat-square&color=1D9E75)](https://github.com/nishasss692?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:nishasrinivas891@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nisha-s-247623333)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:nishasriniavs891@gmail.com)
 
 </div>
 
@@ -19,12 +19,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **AI/ML Enthusiast and Developer**, dedicated to transforming complex data into intuitive, impactful, real-world solutions. Always eager to explore cutting-edge developments in machine learning, data science, and modern full-stack engineering.
+I'm a passionate **AI/ML Enthusiast**, dedicated to transforming complex data into intuitive, impactful, real-world solutions. Always eager to explore cutting-edge developments in machine learning and modern full-stack engineering.
 
-- 🔭 **Working on:** End-to-end Machine Learning pipelines & Intelligent web apps
-- 🌱 **Currently exploring:** Deep Learning architectures, LLM applications & MLOps
-- 💬 **Ask me about:** Python, Machine Learning, Data Analytics & Web Development
-- ⚡ **Fun fact:** I love bridging the gap between raw data and actionable user experiences!
+I love bridging the gap between raw data and actionable user experiences!
 
 ---
 
@@ -58,7 +55,6 @@ I'm a passionate **AI/ML Enthusiast and Developer**, dedicated to transforming c
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 </div>
 
@@ -102,6 +98,19 @@ I'm a passionate **AI/ML Enthusiast and Developer**, dedicated to transforming c
 
 ---
 
+## 🚀 Contribution Journey
+
+Here's a look at my growth, milestones, and ongoing journey across AI/ML, full-stack engineering, and open source:
+
+| Stage | Focus & Milestones | Key Focus Areas | Status |
+| :--- | :--- | :--- | :---: |
+| **01** | **Foundations & Analytics** | Python, data exploration, predictive modeling with `scikit-learn`, `Pandas`, & `NumPy` | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
+| **02** | **Full-Stack AI Solutions** | Building responsive applications connecting ML logic with React, Node.js, and SQL databases | ![Active](https://img.shields.io/badge/Active-1D9E75?style=flat-square) |
+| **03** | **Open Source & Collaboration** | Engaging with developer communities, contributing to codebases, and enhancing technical documentation | ![Ongoing](https://img.shields.io/badge/Ongoing-7F77DD?style=flat-square) |
+| **04** | **MLOps & Advanced AI** | Automating pipelines with CI/CD, exploring LLM fine-tuning, RAG systems, and cloud deployment | ![In Progress](https://img.shields.io/badge/In%20Progress-f39c12?style=flat-square) |
+
+---
+
 ## 🎯 Learning & Roadmap
 
 ```python
@@ -114,23 +123,12 @@ roadmap = {
 
 ---
 
-## 🤝 Open Source & Collaboration
-
-I actively explore and contribute to open source initiatives, developer programs, and community projects:
-
-[![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-orange?style=flat-square)](https://gssoc.girlscript.tech/)
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-blueviolet?style=flat-square)](https://hacktoberfest.com/)
-
-Focus areas: **AI/ML Tooling**, **Data Analytics**, **Interactive Web Apps**, and **Developer Documentation**.
-
----
-
 ## 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishasrinivas891@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-s-247623333)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishasriniavs891@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishasss692)
 
 </div>
