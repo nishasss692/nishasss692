@@ -7,11 +7,8 @@
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Building+intelligent+AI%2FML+systems+%F0%9F%A4%96;Python+%7C+ML+%7C+Data+Science+%7C+React;Turning+ideas+into+real-world+solutions+%F0%9F%92%A1;Open+to+collaborations+%26+opportunities!)](https://git.io/typing-svg)
 
-<!-- Profile views + social badges -->
+<!-- Profile views badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=nishasss692&label=Profile+Views&color=7F77DD&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/nishasss692?label=Followers&style=flat-square&color=1D9E75)](https://github.com/nishasss692?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nisha-s-247623333)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:nishasriniavs891@gmail.com)
 
 </div>
 
@@ -78,36 +75,17 @@ I love bridging the gap between raw data and actionable user experiences!
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=nishasss692&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishasss692&bg_color=0d1117&color=7F77DD&line=1D9E75&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🚀 Contribution Journey
 
-Here's a look at my growth, milestones, and ongoing journey across AI/ML, full-stack engineering, and open source:
+<div align="center">
 
-| Stage | Focus & Milestones | Key Focus Areas | Status |
-| :--- | :--- | :--- | :---: |
-| **01** | **Foundations & Analytics** | Python, data exploration, predictive modeling with `scikit-learn`, `Pandas`, & `NumPy` | ![Completed](https://img.shields.io/badge/Completed-2ea44f?style=flat-square) |
-| **02** | **Full-Stack AI Solutions** | Building responsive applications connecting ML logic with React, Node.js, and SQL databases | ![Active](https://img.shields.io/badge/Active-1D9E75?style=flat-square) |
-| **03** | **Open Source & Collaboration** | Engaging with developer communities, contributing to codebases, and enhancing technical documentation | ![Ongoing](https://img.shields.io/badge/Ongoing-7F77DD?style=flat-square) |
-| **04** | **MLOps & Advanced AI** | Automating pipelines with CI/CD, exploring LLM fine-tuning, RAG systems, and cloud deployment | ![In Progress](https://img.shields.io/badge/In%20Progress-f39c12?style=flat-square) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishasss692/nishasss692/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishasss692/nishasss692/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/nishasss692/nishasss692/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+</picture>
+
+</div>
 
 ---
 
