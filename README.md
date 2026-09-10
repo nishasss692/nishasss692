@@ -2,10 +2,10 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=200&section=header&text=Hey,%20I'm%20Nisha%20S%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Enthusiast%20%7C%20Data%20Science%20%7C%20Full-Stack%20Explorer&descAlignY=55&descColor=ffffffcc&animation=fadeIn" alt="Header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=200&section=header&text=Hey,%20I'm%20Nisha%20S%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Enthusiast%20%7C%20Full-Stack%20Explorer&descAlignY=55&descColor=ffffffcc&animation=fadeIn" alt="Header banner"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Building+intelligent+AI%2FML+systems+%F0%9F%A4%96;Python+%7C+ML+%7C+Data+Science+%7C+React;Turning+ideas+into+real-world+solutions+%F0%9F%92%A1;Open+to+collaborations+%26+opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Building+intelligent+AI%2FML+systems+%F0%9F%A4%96;Python+%7C+ML+%7C+React;Turning+ideas+into+real-world+solutions+%F0%9F%92%A1;Open+to+collaborations+%26+opportunities!)](https://git.io/typing-svg)
 
 <!-- Profile views badge -->
 ![Profile Views](https://komarev.com/ghpvc/?username=nishasss692&label=Profile+Views&color=7F77DD&style=flat-square)
@@ -33,12 +33,11 @@ I love bridging the gap between raw data and actionable user experiences!
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 Machine Learning & Data Science
+### 🤖 Machine Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Frontend & Backend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -93,9 +92,8 @@ I love bridging the gap between raw data and actionable user experiences!
 
 ```python
 roadmap = {
-    "current_focus": ["Deep Learning Architectures", "FastAPI & REST APIs", "Model Deployment"],
-    "next_up":       ["MLOps & Pipeline Automation", "LLM Fine-Tuning & RAG", "Docker & CI/CD"],
-    "future_goals":  ["Distributed Training", "Cloud ML Platforms (AWS/GCP)", "Edge AI"]
+    "current_focus": ["Docker", "FastAPI", "GitHub Actions CI/CD"],
+    "next_up":       ["MLOps", "System Design"]
 }
 ```
 
