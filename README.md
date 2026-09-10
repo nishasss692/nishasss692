@@ -80,9 +80,9 @@ I love bridging the gap between raw data and actionable user experiences!
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishasss692/nishasss692/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishasss692/nishasss692/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/nishasss692/nishasss692/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+  <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg">
+  <img src="./github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
 </picture>
 
 </div>
