@@ -1,14 +1,10 @@
-# Nisha-S
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:1D9E75&height=200&section=header&text=Hey,%20I'm%20Nisha%20S%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Enthusiast%20%7C%20Full-Stack%20Explorer&descAlignY=55&descColor=ffffffcc&animation=fadeIn" alt="Header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:22d3ee&height=180&section=header&text=Nisha%20S&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AIML%20Enthusiast%20%2F%20Full%20Stack%20Developer&descAlignY=60&descSize=18" alt="Header banner"/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Building+intelligent+AI%2FML+systems+%F0%9F%A4%96;Python+%7C+ML+%7C+React;Turning+ideas+into+real-world+solutions+%F0%9F%92%A1;Open+to+collaborations+%26+opportunities!)](https://git.io/typing-svg)
+<br/>
 
-<!-- Profile views badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=nishasss692&label=Profile+Views&color=7F77DD&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=nishasss692&label=Profile+Views&color=ec4899&style=flat-square)
 
 </div>
 
@@ -114,6 +110,6 @@ roadmap = {
 
 *"Turning ideas into intelligent, real-world solutions."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:7F77DD&height=100&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:ec4899&height=100&section=footer" alt="Footer"/>
 
 </div>
